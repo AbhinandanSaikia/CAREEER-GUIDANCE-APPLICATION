@@ -1,11 +1,4 @@
-# Career Guidance Application
 
-**Project Synopsis Implementation**  
-- **Submitted by:** Diapanita Paul (Enrolment No - 2433154715, Roll No. 14)  
-- **Under the Guidance of:** Mrs Emi Kalita, Assistant Professor, Department of Computer Science  
-- **Academic Year:** 2026  
-
----
 
 ## 🌟 Overview
 
@@ -42,7 +35,7 @@ The database connection string is stored in `.env`:
 ```env
 DATABASE_URL="postgresql://neondb_owner:YOUR_KEY@ep-cool-meadow-a1vamcck-pooler.ap-southeast-1.aws.neon.tech/neondb?sslmode=require"
 PORT=5000
-JWT_SECRET="career_guidance_jwt_secret_dr_college_2026"
+JWT_SECRET="career_guidance_jwt_secret"
 ```
 
 ### 2. Run the Full-Stack Application
